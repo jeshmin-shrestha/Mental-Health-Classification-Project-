@@ -4,7 +4,7 @@ Multi-class NLP system that detects mental health conditions from social media t
 
 ## Overview
 
-This project classifies short social media statements into three mental health categories: **Normal**, **Depression**, and **Suicidal**  using Natural Language Processing (NLP). It explores and compares multiple machine learning models, from baseline Logistic Regression to a fine-tuned BERT transformer to identify the most effective classifier.
+This project classifies short social media statements into three mental health categories: **Normal**, **Depression** and **Suicidal**  using Natural Language Processing (NLP). It explores and compares multiple machine learning models, from baseline Logistic Regression to a fine-tuned BERT transformer to identify the most effective classifier.
 
 
 ## Dataset
